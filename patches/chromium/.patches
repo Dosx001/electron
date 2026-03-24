@@ -154,3 +154,4 @@ loaf_add_feature_to_enable_sourceurl_for_all_protocols.patch
 cherry-pick-074d472db745.patch
 cherry-pick-45c5a70d984d.patch
 cherry-pick-05e4b544803c.patch
+cherry-pick-5efc7a0127a6.patch
